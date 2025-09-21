@@ -1,4 +1,4 @@
-# Araç Plaka Tanıma Sistemi
+# Araç Plaka Tanımlama ve Ücretlendirme Sistemi
 
 Bu proje, YOLO tabanlı plaka tespiti ve Tesseract OCR ile plaka okuma yapan modern bir **Tkinter GUI uygulamasıdır**. Python ile geliştirilmiş olup, araç plakalarını tespit eder, OCR ile okur ve süreye bağlı olarak ücretlendirme yapar. Uygulama Windows ortamına yönelik olarak hazırlanmıştır.
 
