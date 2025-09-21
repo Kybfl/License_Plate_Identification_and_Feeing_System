@@ -85,3 +85,10 @@ Bu proje, YOLO tabanlı plaka tespiti ve Tesseract OCR ile plaka okuma yapan mod
 
 * Kod, koyu tema desteği ile modern bir GUI arayüzüne sahiptir.
 * OCR için `tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789` kullanıldığından yalnızca rakam ve büyük harfler okunur.
+
+---
+## Arayüz ve Örnek Çalışma
+
+<img width="1615" height="914" alt="Ekran görüntüsü 2025-09-21 180752" src="https://github.com/user-attachments/assets/2e215490-d252-4251-9e5d-dd32b123420c" />
+<img width="1716" height="902" alt="Ekran görüntüsü 2025-09-21 180731" src="https://github.com/user-attachments/assets/e8568131-a9e8-4868-9cd2-e2795dcb6346" />
+
